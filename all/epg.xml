@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="CCTV-1">
+        <display-name lang="zh">CCTV-1</display-name>
+    </channel>
+    <channel id="CCTV-10">
+        <display-name lang="zh">CCTV-10</display-name>
+    </channel>
+    <channel id="CCTV-11">
+        <display-name lang="zh">CCTV-11</display-name>
+    </channel>
+    <channel id="CCTV-12">
+        <display-name lang="zh">CCTV-12</display-name>
+    </channel>
+    <channel id="CCTV-13">
+        <display-name lang="zh">CCTV-13</display-name>
+    </channel>
+    <channel id="CCTV-14">
+        <display-name lang="zh">CCTV-14</display-name>
+    </channel>
+    <channel id="CCTV-15">
+        <display-name lang="zh">CCTV-15</display-name>
+    </channel>
+    <channel id="CCTV-17">
+        <display-name lang="zh">CCTV-17</display-name>
+    </channel>
+    <channel id="CCTV-2">
+        <display-name lang="zh">CCTV-2</display-name>
+    </channel>
+    <channel id="CCTV-3">
+        <display-name lang="zh">CCTV-3</display-name>
+    </channel>
+    <channel id="CCTV-5">
+        <display-name lang="zh">CCTV-5</display-name>
+    </channel>
+    <channel id="CCTV-5+">
+        <display-name lang="zh">CCTV-5+</display-name>
+    </channel>
+    <channel id="CCTV-6">
+        <display-name lang="zh">CCTV-6</display-name>
+    </channel>
+    <channel id="CCTV-7">
+        <display-name lang="zh">CCTV-7</display-name>
+    </channel>
+    <channel id="CCTV-8">
+        <display-name lang="zh">CCTV-8</display-name>
+    </channel>
+    <channel id="CCTV-9">
+        <display-name lang="zh">CCTV-9</display-name>
+    </channel>
+    <channel id="CETV-1">
+        <display-name lang="zh">CETV-1</display-name>
+    </channel>
+    <channel id="CETV-2">
+        <display-name lang="zh">CETV-2</display-name>
+    </channel>
+    <channel id="CETV-4">
+        <display-name lang="zh">CETV-4</display-name>
+    </channel>
+    <channel id="东方卫视">
+        <display-name lang="zh">东方卫视</display-name>
+    </channel>
+    <channel id="内蒙古卫视">
+        <display-name lang="zh">内蒙古卫视</display-name>
+    </channel>
+    <channel id="北京卫视">
+        <display-name lang="zh">北京卫视</display-name>
+    </channel>
+    <channel id="四川卫视">
+        <display-name lang="zh">四川卫视</display-name>
+    </channel>
+    <channel id="大湾区卫视">
+        <display-name lang="zh">大湾区卫视</display-name>
+    </channel>
+    <channel id="山西卫视">
+        <display-name lang="zh">山西卫视</display-name>
+    </channel>
+    <channel id="广东卫视">
+        <display-name lang="zh">广东卫视</display-name>
+    </channel>
+    <channel id="江苏卫视">
+        <display-name lang="zh">江苏卫视</display-name>
+    </channel>
+    <channel id="江西卫视">
+        <display-name lang="zh">江西卫视</display-name>
+    </channel>
+    <channel id="河北卫视">
+        <display-name lang="zh">河北卫视</display-name>
+    </channel>
+    <channel id="浙江卫视">
+        <display-name lang="zh">浙江卫视</display-name>
+    </channel>
+    <channel id="湖北卫视">
+        <display-name lang="zh">湖北卫视</display-name>
+    </channel>
+    <channel id="湖南卫视">
+        <display-name lang="zh">湖南卫视</display-name>
+    </channel>
+    <channel id="辽宁卫视">
+        <display-name lang="zh">辽宁卫视</display-name>
+    </channel>
+    <channel id="陕西卫视">
+        <display-name lang="zh">陕西卫视</display-name>
+    </channel>
+    <channel id="黑龙江卫视">
+        <display-name lang="zh">黑龙江卫视</display-name>
+    </channel>
+    <channel id="广东新闻">
+        <display-name lang="zh">广东新闻</display-name>
+    </channel>
+    <channel id="广东珠江">
+        <display-name lang="zh">广东珠江</display-name>
+    </channel>
+    <channel id="广州竞赛">
+        <display-name lang="zh">广州竞赛</display-name>
+    </channel>
+    <channel id="广州综合">
+        <display-name lang="zh">广州综合</display-name>
+    </channel>
+</tv>
